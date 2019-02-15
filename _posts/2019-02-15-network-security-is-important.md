@@ -1,6 +1,6 @@
 ---
 title: 网络安全非常重要
-category: 生活
+category: 技术
 layout: post
 ---
 
@@ -17,9 +17,10 @@ layout: post
 - 针对各平台：注册账号只用使用了真实身份的邮箱，（foxmail，新浪邮箱等）
 
 以网络身份（活跃）：
-- 针对普通人：但坚决不透露真实个人信息，以真实身份注册的账号
+- 针对普通人：坚决不透露真实个人信息，以真实身份注册的账号
 - 针对各平台：使用国外邮箱（gmail，outlook等）
 
-真实身份昵称随意，但不和网络身份有交集。网络身份可以有很多个，但不是在每个网站都有一个身份。
+真实身份昵称随意，但不和网络身份有交集。网络身份可以有很多个，但不是在每个网站都有一个身份（不方便管理，且难免会和真实身份有交集）。
 
-具体的有技术性的可以参考[这篇文章](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)，博主因为身份特殊，所以他的措施应该足够安全。
+以上是正常上网的措施，只是我目前的理解，但果危险到连ip都要隐藏起来了，可以参考[这篇文章](https://program-think.blogspot.com/2019/01/Security-Guide-for-Political-Activists.html)，博主因为身份特殊，所以他的措施应该足够安全。
+
