@@ -19,6 +19,7 @@ layout: post
   * Item 2a
   * Item 2b
   
+  
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
