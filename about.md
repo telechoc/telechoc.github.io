@@ -1,5 +1,6 @@
 ---
 title: 关于
+layout: default
 permalink: /about/
 ---
 
