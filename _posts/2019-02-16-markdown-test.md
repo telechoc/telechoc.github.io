@@ -1,8 +1,10 @@
----
+﻿---
 title: Markdown 测试
 category: 技术
 layout: post
 ---
+
+这是一篇测试Markdown 语法和用来更新网站CSS的文章。
 
 **bold**
 
