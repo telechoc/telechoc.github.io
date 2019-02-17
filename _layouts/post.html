@@ -7,14 +7,14 @@ layout: default
     <div class="page-content">
         {{ page.content }}
     </div>
-    <div class="page-category">
+    <p class="page-category">
         分类:     
         {% if page.category != nil %}
             {% for category in page.categories %}
             <a href="{{ site.url }}/category/#{{ category }}">{{ category }}</a>
             {% endfor %}
         {% else%}无分类{% endif %}
-    </div>
+    </p>
 </div>
 
 <div class="page-links">
