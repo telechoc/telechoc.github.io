@@ -1,3 +1,6 @@
 title: 毒恶记事本
-description: 记录可怜又好笑之人物
+description: 记可怜可笑之人物
 permalink: /:title/
+
+paginate: 8
+paginate_path: "/page:num"
